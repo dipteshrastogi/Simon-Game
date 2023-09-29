@@ -1,0 +1,47 @@
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    margin: 5%;
+    color: #fef2bf;
+    text-align: center;
+  }
+body {
+  background-color: #011f3f;
+}
+.green {
+  background-color: green;
+  border-radius: 20%;
+  border: 10px solid black;
+}
+.blue {
+  background-color: blue;
+  border-radius: 20%;
+  border: 10px solid black;
+}
+.yellow {
+  background-color: yellow;
+  border-radius: 20%;
+  border: 10px solid black;
+}
+.red {
+  background-color: red;
+  border-radius: 20%;
+  border: 10px solid black;
+}
+.btn1{
+    color: blue;
+}
+
+.i_effect{
+    /* box-shadow: 0 3px 4px 0 #DBEDF3; */
+    opacity: 0.5;
+}
+
+.wrong{
+  background-color: red;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
